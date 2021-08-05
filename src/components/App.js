@@ -10,3 +10,16 @@ function App() {
 }
 
 export default App;
+
+
+/*
+
+App
+|__PokemonPage
+    |__PokemonForm
+    |__Search
+    |__PokemonCollection
+        |__PokemonCard
+    
+
+*/
